@@ -1,0 +1,51 @@
+.memu3{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Londrina Solid', sans-serif;
+    text-align: center;
+    font-size: 5em;
+    color: #67729D;
+background-color: #65B741;
+background-color: #bec09d;
+    border-radius: 50%;
+}
+
+.memu2{
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 2em;
+    color: orange;
+}
+
+.memu1{
+    font-family: 'Caveat Brush', cursive;
+    text-align: center;
+    font-size: 2em;
+    color: yellowgreen;
+}
+
+.memu1-2{
+float: center;
+border-radius: 50%;
+background-color: #637E76;
+}
+
+.memuAll{
+    text-align: center;
+    border-radius: 50%;
+    background-color: #DBCC95;
+}
+
+.memu4{
+    background-color: #e79379;
+    border-radius: 6%;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 1.3em;
+    font-family: 'Pacifico', cursive;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
